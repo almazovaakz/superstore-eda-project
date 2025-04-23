@@ -46,13 +46,13 @@ It demonstrates the ability to clean, transform, visualize, and interpret data u
 ## 📊 Visualizations
 
 ### 🧍 Segment Sales
-![Segment Sales](graphs/segment_sales.png)
+![Segment Sales](segment_sales.png)
 
 ### 🪑 Category Sales
-![Category Sales](graphs/category_sales.png)
+![Category Sales](category_sales.png)
 
 ### 📈 Monthly Sales Trend
-![Monthly Sales](graphs/monthly_sales.png)
+![Monthly Sales](monthly_sales.png)
 
 ---
 
