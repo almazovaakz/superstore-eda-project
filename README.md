@@ -29,14 +29,13 @@ The goal is to derive business insights from customer, product, and time-based s
 
 ## 📊 Visualizations
 
-### 👥 Sales by Segment
-<img src="graphs/segment_sales.png" alt="Sales by Segment" width="600"/>
+## 📊 Visualizations
 
-### 🪑 Sales by Category
-<img src="graphs/category_sales.png" alt="Sales by Category" width="600"/>
-
-### 📈 Monthly Sales Trend
-<img src="graphs/monthly_sales.png" alt="Monthly Sales Trend" width="600"/>
+| Analysis              | Graph                                |
+|-----------------------|--------------------------------------|
+| Sales by Segment      | ![Segment Sales](segment_sales.png) |
+| Sales by Category     | ![Category Sales](category_sales.png) |
+| Monthly Sales Trend   | ![Monthly Sales](monthly_sales.png) |
 
 
 ---
