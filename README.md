@@ -16,7 +16,12 @@ The goal is to derive business insights from customer, product, and time-based s
 
 ## 📁 Project Structure
 
-superstore-eda-project/ ├── 📓 superstore_eda.ipynb # Clean and well-documented Jupyter Notebook ├── 📁 data/ # Contains raw dataset │   └── train.csv # Superstore sales data ├── 📁 graphs/ # Saved visualizations from the analysis │   ├── segment_sales.png # Sales grouped by customer segment │   ├── category_sales.png # Sales grouped by product category │   └── monthly_sales.png # Monthly trend of total sales
+superstore-eda-project/ ├── 📓 superstore_eda.ipynb
+# Clean and well-documented Jupyter Notebook ├── 📁 data/ 
+# Contains raw dataset │   └── train.csv 
+# Superstore sales data ├── 📁 graphs/ 
+# Saved visualizations from the analysis │   ├── segment_sales.png # Sales grouped by customer segment │   ├── category_sales.png # Sales grouped by product category │   └── monthly_sales.png 
+# Monthly trend of total sales
 
 ---
 
@@ -32,13 +37,13 @@ superstore-eda-project/ ├── 📓 superstore_eda.ipynb # Clean and well-doc
 
 ## 📈 Visualizations
 
-### Sales by Segment
+### 👥 Sales by Segment
 ![Segment Sales](graphs/segment_sales.png)
 
-### Sales by Category
+### 🪑 Sales by Category
 ![Category Sales](graphs/category_sales.png)
 
-### Monthly Sales Trend
+### 📈 Monthly Sales Trend
 ![Monthly Sales](graphs/monthly_sales.png)
 
 ---
